@@ -5,3 +5,5 @@ description: My ramblings and experiences with building stuff with F#
 masterUserDisplayName: My Name
 masterLanguage: en
 languages: "en->English,es->Spanish,hu->Hungarian"
+masterUserDisplayName: Akos Steiner
+users: "akos->Akos Steiner,fred->Fred Smith,bill->Bill Smith"
